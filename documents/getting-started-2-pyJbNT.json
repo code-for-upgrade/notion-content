@@ -1,0 +1,9 @@
+{
+  "type": "doc",
+  "blocks": [
+    {
+      "type": "text",
+      "content": "Hello GitHub-backed Notion!"
+    }
+  ]
+}
